@@ -347,7 +347,7 @@ def next_expiry():
 	current_expiry = data_from_nse[1]
 
 
-	return expiry_status[current_expiry]
+	return expiry_status[curren_expiry]
 
 
 
